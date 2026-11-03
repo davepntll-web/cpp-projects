@@ -5,6 +5,7 @@ Projects included:
 - Account System
 - Grade Classifier
 - Simple Calculator
+- Centimeters to Inches Converter
 Purpose
 
 These projects were created to practice and improve my understanding of C++ programming.
